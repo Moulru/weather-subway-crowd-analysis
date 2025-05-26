@@ -29,6 +29,10 @@ This project explores the relationship between weather conditions and subway con
 /data
 /code
 
+## 🗓 Project Duration
+
+June 2, 2025 – June 22, 2025
+
 ## 👥 Team Members
 
 - Junho Park  
