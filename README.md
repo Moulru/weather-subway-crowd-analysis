@@ -1,6 +1,6 @@
 # Subway Congestion Prediction with Weather Data
 
-Analyzing and predicting subway congestion using weather data correlations.
+Analyzing and predicting subway congestion using weather data correlations.  
 기상청 2025 날씨 빅데이터 콘테스트 주제3
 
 ## 📌 Project Description
